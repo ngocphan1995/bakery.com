@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Quảng cáo phải_body</title>
+  <form>sequential</form>
+  <width>290</width>
+  <height>300</height>
+  <banners>
+    <banners_item>
+      <id>6</id>
+      <title>quảng cáo bánh quy</title>
+      <clid>0</clid>
+      <file_name>banner3.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>270</file_width>
+      <file_height>254</file_height>
+      <file_alt></file_alt>
+      <file_click>http://demo.magentech.com/themes/sm_bakery/#</file_click>
+      <target>_blank</target>
+      <publ_time>1460345537</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

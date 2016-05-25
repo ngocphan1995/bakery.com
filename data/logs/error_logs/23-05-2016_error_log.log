@@ -1,0 +1,5 @@
+[Mon, 23 May 2016 10:30:05 +0700] [127.0.0.1] [Notice(8): Undefined index: _redirection] [FILE: /includes/class/nv_http.class.php] [LINE: 454]
+[Mon, 23 May 2016 10:30:05 +0700] [127.0.0.1] [Warning(2): Missing argument 1 for NV_Http::__construct(), called in C:\xampp\htdocs\bakery\includes\class\nv_http.class.php on line 506 and defined] [FILE: /includes/class/nv_http.class.php] [LINE: 51]
+[Mon, 23 May 2016 10:30:05 +0700] [127.0.0.1] [Warning(2): gzinflate(): data error] [FILE: /includes/class/nv_http.class.php] [LINE: 1925]
+[Mon, 23 May 2016 10:30:05 +0700] [127.0.0.1] [Notice(8): unserialize(): Error at offset 0 of 74029 bytes] [FILE: /includes/core/admin_functions.php] [LINE: 387]
+[Mon, 23 May 2016 10:30:05 +0700] [127.0.0.1] [Notice(8): Undefined index: error_valid_response] [FILE: /includes/core/admin_functions.php] [LINE: 396]
